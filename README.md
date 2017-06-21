@@ -1,5 +1,5 @@
-# Chat-Logger-
-ChatLogger++
+# Chat-Logger++
+Steam Chat Logger
 
 A tool originally created by VoIdEd on FacePunch:
 http://www.facepunch.com/showthread.php?t=840880
